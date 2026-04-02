@@ -72,21 +72,62 @@ I'm a Full Stack Developer at **Metafic**, building scalable web applications us
 
 ---
 
-### Featured Project
+### Projects
 
-**ShopEase** — A full-stack e-commerce platform built with Clean Architecture.
+#### ShopEase — E-Commerce Platform
+> Full-stack e-commerce platform with product catalog, cart, checkout, and admin dashboard.
 
 | Repository | Tech Stack |
 |-----------|------------|
-| [ECommerceApp](https://github.com/Pritam-1089/ECommerceApp) | ASP.NET Core 9, Entity Framework Core, SQL Server, JWT |
+| [ECommerceApp](https://github.com/Pritam-1089/ECommerceApp) | ASP.NET Core 9, EF Core, SQL Server, JWT |
 | [ECommerceApp-Frontend](https://github.com/Pritam-1089/ECommerceApp-Frontend) | Angular 20, TypeScript, SCSS |
 
-**Highlights:**
-- JWT Authentication with Role-Based Access (Admin / Customer)
+- JWT Auth with Role-Based Access (Admin / Customer)
 - Product Catalog with Categories, Search & Filtering
 - Shopping Cart, Checkout & Order Management
-- Admin Dashboard for Products & Order Processing
 - Clean Architecture: API > Application > Core > Infrastructure
+
+---
+
+#### TaskFlow — Project Management System
+> Kanban-style project management tool with real-time board updates and team collaboration.
+
+| Repository | Tech Stack |
+|-----------|------------|
+| [TaskFlow](https://github.com/Pritam-1089/TaskFlow) | ASP.NET Core 9, EF Core, SQL Server, SignalR, JWT |
+
+- Kanban Board with Drag-and-Drop Task Management
+- Project & Team Management with Role Assignment
+- Real-time Board Sync using SignalR
+- Dashboard with Project Analytics & Workload Charts
+
+---
+
+#### ChatConnect — Real-time Chat Application
+> Real-time messaging app with private chats, group conversations, and live presence tracking.
+
+| Repository | Tech Stack |
+|-----------|------------|
+| [ChatConnect](https://github.com/Pritam-1089/ChatConnect) | ASP.NET Core 9, EF Core, SQL Server, SignalR, JWT |
+
+- One-on-One & Group Messaging with History
+- Real-time Communication via SignalR WebSockets
+- Online/Offline Status & Typing Indicators
+- File & Image Sharing with Read Receipts
+
+---
+
+#### BlogPulse — Blogging Platform
+> Content management platform with rich text editing, user profiles, and comment system.
+
+| Repository | Tech Stack |
+|-----------|------------|
+| [BlogPulse](https://github.com/Pritam-1089/BlogPulse) | ASP.NET Core 9, EF Core, SQL Server, JWT |
+
+- Rich Text Editor for Blog Posts
+- Categories, Tags & Full-text Search
+- User Profiles with Follow System
+- Admin Panel for Content Moderation
 
 ---
 
