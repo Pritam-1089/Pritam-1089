@@ -155,9 +155,17 @@ Content management platform with social features — follow system, personalized
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pritam-1089&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pritam-1089&theme=github_dark" alt="Profile Details" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pritam-1089&theme=github_dark" alt="Repos per Language" height="165"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pritam-1089&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pritam-1089&theme=github_dark" alt="Stats" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pritam-1089&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
