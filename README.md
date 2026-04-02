@@ -1,6 +1,6 @@
 <h1 align="center">Pritam Chavan</h1>
 
-<h3 align="center">Senior Full Stack Developer | 4+ Years | .NET Core & Angular</h3>
+<h3 align="center">Full Stack Developer | 4+ Years | .NET Core & Angular</h3>
 
 <p align="center">
   <a href="mailto:pritamchavan1089@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;
