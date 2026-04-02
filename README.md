@@ -14,7 +14,7 @@
 
 ### About Me
 
-I'm a Full Stack Developer at **Metafic**, building scalable web applications using **ASP.NET Core** and **Angular**. I follow Clean Architecture principles to deliver well-structured, maintainable backend systems paired with responsive, modern frontends. Currently focused on building enterprise-grade e-commerce solutions with role-based access control and RESTful APIs.
+I'm a Full Stack Developer at **Metafic**, building scalable web applications using **ASP.NET Core** and **Angular**. I follow Clean Architecture principles to deliver well-structured, maintainable backend systems paired with responsive, modern frontends. Currently focused on building enterprise-grade solutions with role-based access control and RESTful APIs.
 
 ---
 
@@ -41,6 +41,7 @@ I'm a Full Stack Developer at **Metafic**, building scalable web applications us
 **API & Integration**
 
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=flat&logo=fastapi&logoColor=white)
+![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
@@ -63,12 +64,13 @@ I'm a Full Stack Developer at **Metafic**, building scalable web applications us
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 **Methodology**
 
 ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-2496ED?style=flat&logo=architecture&logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile-0052CC?style=flat&logo=jira&logoColor=white)
-![REST](https://img.shields.io/badge/RESTful_Design-FF6F00?style=flat&logo=openapiinitiative&logoColor=white)
+![RESTful Design](https://img.shields.io/badge/RESTful_Design-FF6F00?style=flat&logo=openapiinitiative&logoColor=white)
 
 ---
 
@@ -94,40 +96,40 @@ I'm a Full Stack Developer at **Metafic**, building scalable web applications us
 
 | Repository | Tech Stack |
 |-----------|------------|
-| [TaskFlow](https://github.com/Pritam-1089/TaskFlow) | ASP.NET Core 9, EF Core, SQL Server, SignalR, JWT |
+| [TaskFlow](https://github.com/Pritam-1089/TaskFlow) | ASP.NET Core 9, EF Core, SignalR, Angular, JWT |
 
 - Kanban Board with Drag-and-Drop Task Management
-- Project & Team Management with Role Assignment
-- Real-time Board Sync using SignalR
-- Dashboard with Project Analytics & Workload Charts
+- Real-time Board Sync using SignalR WebSockets
+- Project & Team Management with Role Assignment (Admin / Manager / Member)
+- Dashboard with Task Analytics, Priority Tracking & Overdue Alerts
 
 ---
 
 #### ChatConnect — Real-time Chat Application
-> Real-time messaging app with private chats, group conversations, and live presence tracking.
+> WhatsApp-style messaging app with private chats, group conversations, and live presence tracking.
 
 | Repository | Tech Stack |
 |-----------|------------|
-| [ChatConnect](https://github.com/Pritam-1089/ChatConnect) | ASP.NET Core 9, EF Core, SQL Server, SignalR, JWT |
+| [ChatConnect](https://github.com/Pritam-1089/ChatConnect) | ASP.NET Core 9, SignalR, Angular, JWT |
 
-- One-on-One & Group Messaging with History
-- Real-time Communication via SignalR WebSockets
-- Online/Offline Status & Typing Indicators
-- File & Image Sharing with Read Receipts
+- Real-time Messaging via SignalR WebSockets
+- Private & Group Conversations with Online/Offline Status
+- Emoji Picker, Photo Sharing with Preview & Download
+- Typing Indicators, Read Receipts & Message Unsend
 
 ---
 
 #### BlogPulse — Blogging Platform
-> Content management platform with rich text editing, user profiles, and comment system.
+> Content management platform with rich text editing, user profiles, and social features.
 
 | Repository | Tech Stack |
 |-----------|------------|
-| [BlogPulse](https://github.com/Pritam-1089/BlogPulse) | ASP.NET Core 9, EF Core, SQL Server, JWT |
+| [BlogPulse](https://github.com/Pritam-1089/BlogPulse) | ASP.NET Core 9, EF Core, Angular, JWT |
 
-- Rich Text Editor for Blog Posts
-- Categories, Tags & Full-text Search
-- User Profiles with Follow System
-- Admin Panel for Content Moderation
+- Blog Post CRUD with Categories, Tags & Search
+- Like/Unlike System & Threaded Comments
+- User Profiles with Follow/Unfollow System
+- Personalized Feed from Followed Authors
 
 ---
 
